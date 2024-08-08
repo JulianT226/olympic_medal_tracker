@@ -1,6 +1,10 @@
 document.addEventListener('DOMContentLoaded', () => {
     const medalTableBody = document.querySelector('#medal-table tbody');
 
+    // Check if the data has already been fetched to prevent duplication
+    if (window.dataLoaded) return;
+    window.dataLoaded = true;
+
     console.log('Fetching medal data...');
 
     // Fetch medal data from the pre-generated JSON file
@@ -17,7 +21,7 @@ document.addEventListener('DOMContentLoaded', () => {
             // Sort the data by weighted points in descending order
             data.sort((a, b) => b.weightedPoints - a.weightedPoints);
 
-            // Populate the table with sorted data and add a row for weighted points
+            // Populate the table with sorted data
             data.forEach(row => {
                 const tr = document.createElement('tr');
                 tr.innerHTML = `
