@@ -1,16 +1,9 @@
 document.addEventListener('DOMContentLoaded', () => {
     const medalTableBody = document.querySelector('#medal-table tbody');
-    
-    // Add a flag to ensure this code runs only once
-    if (window.medalDataFetched) return;
-    window.medalDataFetched = true;
-
-    // Clear existing rows in case the script is run multiple times
-    medalTableBody.innerHTML = '';
 
     console.log('Fetching medal data...');
 
-    // Fetch medal data from the server
+    // Fetch medal data from the pre-generated JSON file
     fetch('medalData.json')
         .then(response => response.json())
         .then(data => {
