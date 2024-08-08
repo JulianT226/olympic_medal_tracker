@@ -1,9 +1,8 @@
 document.addEventListener('DOMContentLoaded', () => {
     const medalTableBody = document.querySelector('#medal-table tbody');
 
-    // Check if the data has already been fetched to prevent duplication
-    if (window.dataLoaded) return;
-    window.dataLoaded = true;
+    // Clear existing rows before adding new ones
+    medalTableBody.innerHTML = '';
 
     console.log('Fetching medal data...');
 
