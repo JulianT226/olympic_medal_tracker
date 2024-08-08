@@ -11,7 +11,7 @@ document.addEventListener('DOMContentLoaded', () => {
     console.log('Fetching medal data...');
 
     // Fetch medal data from the server
-    fetch('/medals')
+    fetch('medalData.json')
         .then(response => response.json())
         .then(data => {
             console.log('Data received:', data);

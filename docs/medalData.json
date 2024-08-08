@@ -1,0 +1,37 @@
+[
+  {
+    "team": "1United States",
+    "gold": "30",
+    "silver": "38",
+    "bronze": "35",
+    "total": "103"
+  },
+  {
+    "team": "2China",
+    "gold": "29",
+    "silver": "25",
+    "bronze": "19",
+    "total": "73"
+  },
+  {
+    "team": "3Australia",
+    "gold": "18",
+    "silver": "14",
+    "bronze": "13",
+    "total": "45"
+  },
+  {
+    "team": "4France",
+    "gold": "14",
+    "silver": "19",
+    "bronze": "21",
+    "total": "54"
+  },
+  {
+    "team": "5Great Britain",
+    "gold": "13",
+    "silver": "17",
+    "bronze": "21",
+    "total": "51"
+  }
+]

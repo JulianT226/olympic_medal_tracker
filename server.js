@@ -1,6 +1,7 @@
 const express = require('express');
 const puppeteer = require('puppeteer');
 const path = require('path');
+const fs = require('fs');
 const app = express();
 const PORT = process.env.PORT || 3000;
 
@@ -36,7 +37,6 @@ async function scrapeMedalData() {
                     const bronze = cells[3].innerText.trim();
                     const total = cells[4].innerText.trim();
 
-                    // Only add rows that have meaningful data
                     if (team && (gold || silver || bronze || total)) {
                         results.push({ team, gold, silver, bronze, total });
                     }
@@ -46,6 +46,10 @@ async function scrapeMedalData() {
         });
 
         console.log('Medal data extracted successfully:', medalData);
+
+        // Save to a JSON file
+        fs.writeFileSync('docs/medalData.json', JSON.stringify(medalData, null, 2));
+        console.log('Medal data saved to medalData.json');
         return medalData;
     } catch (error) {
         console.error('Error fetching or parsing medal data:', error);
@@ -57,20 +61,5 @@ async function scrapeMedalData() {
     }
 }
 
-// Serve static files from the public directory
-app.use(express.static(path.join(__dirname, 'docs')));
-
-app.get('/medals', async (req, res) => {
-    try {
-        console.log('Starting data fetch...');
-        const data = await scrapeMedalData();
-        console.log('Data fetched successfully:', data);
-        res.json(data);
-    } catch (error) {
-        res.status(500).send(error.toString());
-    }
-});
-
-app.listen(PORT, () => {
-    console.log(`Server is running on port ${PORT}`);
-});
+// Run the scrape function
+scrapeMedalData();
