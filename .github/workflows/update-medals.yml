@@ -1,0 +1,35 @@
+name: Update Medal Data
+
+on:
+  schedule:
+    - cron: '/10 * * * *'  # This runs every hour. Adjust as needed.
+  workflow_dispatch:  # Allows you to run this workflow manually
+
+jobs:
+  update-medals:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '16'  # Use the Node.js version you're working with
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Run Puppeteer script to update medals data
+        run: node server.js
+
+      - name: Commit and push changes
+        run: |
+          git config --global user.name "GitHub Actions"
+          git config --global user.email "actions@github.com"
+          git add docs/medalData.json
+          git commit -m "Update medal data"
+          git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
