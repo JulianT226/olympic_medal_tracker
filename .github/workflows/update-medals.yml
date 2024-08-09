@@ -2,7 +2,7 @@ name: Update Medal Data
 
 on:
   schedule:
-    - cron: '/10 * * * *'  # This runs every hour. Adjust as needed.
+    - cron: '*/10 * * * *'  # This runs every hour. Adjust as needed.
   workflow_dispatch:  # Allows you to run this workflow manually
 
 jobs:
