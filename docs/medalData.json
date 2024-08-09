@@ -9,29 +9,29 @@
   {
     "team": "2United States",
     "gold": "31",
-    "silver": "38",
+    "silver": "39",
     "bronze": "36",
-    "total": "105"
+    "total": "106"
   },
   {
     "team": "3Australia",
     "gold": "18",
-    "silver": "15",
+    "silver": "16",
     "bronze": "14",
-    "total": "47"
+    "total": "48"
   },
   {
-    "team": "4France",
+    "team": "4Great Britain",
+    "gold": "14",
+    "silver": "19",
+    "bronze": "23",
+    "total": "56"
+  },
+  {
+    "team": "5France",
     "gold": "14",
     "silver": "19",
     "bronze": "22",
     "total": "55"
-  },
-  {
-    "team": "5Great Britain",
-    "gold": "14",
-    "silver": "19",
-    "bronze": "21",
-    "total": "54"
   }
 ]
