@@ -10,6 +10,7 @@ async function scrapeMedalData() {
     try {
         console.log('Launching browser...');
         browser = await puppeteer.launch({
+            executablePath: '/usr/bin/google-chrome',
             headless: true,
             args: [
                 '--disable-http2',
