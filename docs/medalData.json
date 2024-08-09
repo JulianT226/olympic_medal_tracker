@@ -8,30 +8,30 @@
   },
   {
     "team": "2China",
-    "gold": "29",
+    "gold": "30",
     "silver": "25",
     "bronze": "19",
-    "total": "73"
+    "total": "74"
   },
   {
     "team": "3Australia",
     "gold": "18",
     "silver": "14",
-    "bronze": "13",
-    "total": "45"
+    "bronze": "14",
+    "total": "46"
   },
   {
     "team": "4France",
     "gold": "14",
     "silver": "19",
-    "bronze": "21",
-    "total": "54"
+    "bronze": "22",
+    "total": "55"
   },
   {
     "team": "5Great Britain",
-    "gold": "13",
+    "gold": "14",
     "silver": "17",
     "bronze": "21",
-    "total": "51"
+    "total": "52"
   }
 ]
