@@ -14,6 +14,8 @@ document.addEventListener('DOMContentLoaded', () => {
 
             // Calculate weighted points and add it to each team's data
             data.forEach(row => {
+                row.team = row.team.replace(/^\d+/, '');
+                
                 row.weightedPoints = (parseInt(row.gold) * 5) + (parseInt(row.silver) * 3) + (parseInt(row.bronze) * 1);
             });
 
