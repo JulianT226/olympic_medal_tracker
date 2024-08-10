@@ -1,17 +1,17 @@
 [
   {
     "team": "1China",
-    "gold": "37",
+    "gold": "38",
     "silver": "27",
     "bronze": "24",
-    "total": "88"
+    "total": "89"
   },
   {
     "team": "2United States",
-    "gold": "36",
+    "gold": "37",
     "silver": "42",
-    "bronze": "41",
-    "total": "119"
+    "bronze": "42",
+    "total": "121"
   },
   {
     "team": "3Australia",
@@ -30,8 +30,8 @@
   {
     "team": "5France",
     "gold": "15",
-    "silver": "22",
+    "silver": "23",
     "bronze": "22",
-    "total": "59"
+    "total": "60"
   }
 ]
