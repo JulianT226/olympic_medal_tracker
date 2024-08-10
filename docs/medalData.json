@@ -8,10 +8,10 @@
   },
   {
     "team": "2United States",
-    "gold": "34",
+    "gold": "35",
     "silver": "41",
     "bronze": "39",
-    "total": "114"
+    "total": "115"
   },
   {
     "team": "3Australia",
@@ -23,15 +23,15 @@
   {
     "team": "4Japan",
     "gold": "16",
-    "silver": "10",
+    "silver": "11",
     "bronze": "13",
-    "total": "39"
+    "total": "40"
   },
   {
     "team": "5France",
     "gold": "15",
-    "silver": "21",
+    "silver": "22",
     "bronze": "22",
-    "total": "58"
+    "total": "59"
   }
 ]
