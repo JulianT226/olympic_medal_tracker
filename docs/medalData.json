@@ -33,5 +33,607 @@
     "silver": "26",
     "bronze": "22",
     "total": "64"
+  },
+  {
+    "team": "6Netherlands",
+    "gold": "15",
+    "silver": "7",
+    "bronze": "12",
+    "total": "34"
+  },
+  {
+    "team": "7Great Britain",
+    "gold": "14",
+    "silver": "21",
+    "bronze": "29",
+    "total": "64"
+  },
+  {
+    "team": "8South Korea",
+    "gold": "13",
+    "silver": "9",
+    "bronze": "10",
+    "total": "32"
+  },
+  {
+    "team": "9Italy",
+    "gold": "12",
+    "silver": "13",
+    "bronze": "15",
+    "total": "40"
+  },
+  {
+    "team": "10Germany",
+    "gold": "12",
+    "silver": "13",
+    "bronze": "8",
+    "total": "33"
+  },
+  {
+    "team": "11New Zealand",
+    "gold": "10",
+    "silver": "7",
+    "bronze": "3",
+    "total": "20"
+  },
+  {
+    "team": "12Canada",
+    "gold": "9",
+    "silver": "7",
+    "bronze": "11",
+    "total": "27"
+  },
+  {
+    "team": "13Uzbekistan",
+    "gold": "8",
+    "silver": "2",
+    "bronze": "3",
+    "total": "13"
+  },
+  {
+    "team": "14Hungary",
+    "gold": "6",
+    "silver": "7",
+    "bronze": "6",
+    "total": "19"
+  },
+  {
+    "team": "15Spain",
+    "gold": "5",
+    "silver": "4",
+    "bronze": "9",
+    "total": "18"
+  },
+  {
+    "team": "16Sweden",
+    "gold": "4",
+    "silver": "4",
+    "bronze": "3",
+    "total": "11"
+  },
+  {
+    "team": "17Kenya",
+    "gold": "4",
+    "silver": "2",
+    "bronze": "5",
+    "total": "11"
+  },
+  {
+    "team": "18Norway",
+    "gold": "4",
+    "silver": "1",
+    "bronze": "3",
+    "total": "8"
+  },
+  {
+    "team": "19Ireland",
+    "gold": "4",
+    "silver": "0",
+    "bronze": "3",
+    "total": "7"
+  },
+  {
+    "team": "20Brazil",
+    "gold": "3",
+    "silver": "7",
+    "bronze": "10",
+    "total": "20"
+  },
+  {
+    "team": "21Iran",
+    "gold": "3",
+    "silver": "6",
+    "bronze": "3",
+    "total": "12"
+  },
+  {
+    "team": "22Ukraine",
+    "gold": "3",
+    "silver": "5",
+    "bronze": "4",
+    "total": "12"
+  },
+  {
+    "team": "23Romania",
+    "gold": "3",
+    "silver": "4",
+    "bronze": "2",
+    "total": "9"
+  },
+  {
+    "team": "24Georgia",
+    "gold": "3",
+    "silver": "3",
+    "bronze": "1",
+    "total": "7"
+  },
+  {
+    "team": "25Belgium",
+    "gold": "3",
+    "silver": "1",
+    "bronze": "6",
+    "total": "10"
+  },
+  {
+    "team": "26Bulgaria",
+    "gold": "3",
+    "silver": "1",
+    "bronze": "3",
+    "total": "7"
+  },
+  {
+    "team": "27Serbia",
+    "gold": "3",
+    "silver": "1",
+    "bronze": "1",
+    "total": "5"
+  },
+  {
+    "team": "28Czechia",
+    "gold": "3",
+    "silver": "0",
+    "bronze": "2",
+    "total": "5"
+  },
+  {
+    "team": "29Denmark",
+    "gold": "2",
+    "silver": "2",
+    "bronze": "5",
+    "total": "9"
+  },
+  {
+    "team": "30Azerbaijan",
+    "gold": "2",
+    "silver": "2",
+    "bronze": "3",
+    "total": "7"
+  },
+  {
+    "team": "30Croatia",
+    "gold": "2",
+    "silver": "2",
+    "bronze": "3",
+    "total": "7"
+  },
+  {
+    "team": "32Cuba",
+    "gold": "2",
+    "silver": "1",
+    "bronze": "6",
+    "total": "9"
+  },
+  {
+    "team": "33Bahrain",
+    "gold": "2",
+    "silver": "1",
+    "bronze": "1",
+    "total": "4"
+  },
+  {
+    "team": "34Slovenia",
+    "gold": "2",
+    "silver": "1",
+    "bronze": "0",
+    "total": "3"
+  },
+  {
+    "team": "35Chinese Taipei",
+    "gold": "2",
+    "silver": "0",
+    "bronze": "5",
+    "total": "7"
+  },
+  {
+    "team": "36Austria",
+    "gold": "2",
+    "silver": "0",
+    "bronze": "3",
+    "total": "5"
+  },
+  {
+    "team": "37Hong Kong, China",
+    "gold": "2",
+    "silver": "0",
+    "bronze": "2",
+    "total": "4"
+  },
+  {
+    "team": "37Philippines",
+    "gold": "2",
+    "silver": "0",
+    "bronze": "2",
+    "total": "4"
+  },
+  {
+    "team": "39Algeria",
+    "gold": "2",
+    "silver": "0",
+    "bronze": "1",
+    "total": "3"
+  },
+  {
+    "team": "39Indonesia",
+    "gold": "2",
+    "silver": "0",
+    "bronze": "1",
+    "total": "3"
+  },
+  {
+    "team": "41Israel",
+    "gold": "1",
+    "silver": "5",
+    "bronze": "1",
+    "total": "7"
+  },
+  {
+    "team": "42Poland",
+    "gold": "1",
+    "silver": "4",
+    "bronze": "5",
+    "total": "10"
+  },
+  {
+    "team": "43Kazakhstan",
+    "gold": "1",
+    "silver": "3",
+    "bronze": "3",
+    "total": "7"
+  },
+  {
+    "team": "44Jamaica",
+    "gold": "1",
+    "silver": "3",
+    "bronze": "2",
+    "total": "6"
+  },
+  {
+    "team": "44South Africa",
+    "gold": "1",
+    "silver": "3",
+    "bronze": "2",
+    "total": "6"
+  },
+  {
+    "team": "44Thailand",
+    "gold": "1",
+    "silver": "3",
+    "bronze": "2",
+    "total": "6"
+  },
+  {
+    "team": "47Ethiopia",
+    "gold": "1",
+    "silver": "3",
+    "bronze": "0",
+    "total": "4"
+  },
+  {
+    "team": "48Switzerland",
+    "gold": "1",
+    "silver": "2",
+    "bronze": "5",
+    "total": "8"
+  },
+  {
+    "team": "49Ecuador",
+    "gold": "1",
+    "silver": "2",
+    "bronze": "2",
+    "total": "5"
+  },
+  {
+    "team": "50Portugal",
+    "gold": "1",
+    "silver": "2",
+    "bronze": "1",
+    "total": "4"
+  },
+  {
+    "team": "51Greece",
+    "gold": "1",
+    "silver": "1",
+    "bronze": "6",
+    "total": "8"
+  },
+  {
+    "team": "52Argentina",
+    "gold": "1",
+    "silver": "1",
+    "bronze": "1",
+    "total": "3"
+  },
+  {
+    "team": "52Egypt",
+    "gold": "1",
+    "silver": "1",
+    "bronze": "1",
+    "total": "3"
+  },
+  {
+    "team": "52Tunisia",
+    "gold": "1",
+    "silver": "1",
+    "bronze": "1",
+    "total": "3"
+  },
+  {
+    "team": "55Botswana",
+    "gold": "1",
+    "silver": "1",
+    "bronze": "0",
+    "total": "2"
+  },
+  {
+    "team": "55Chile",
+    "gold": "1",
+    "silver": "1",
+    "bronze": "0",
+    "total": "2"
+  },
+  {
+    "team": "55Saint Lucia",
+    "gold": "1",
+    "silver": "1",
+    "bronze": "0",
+    "total": "2"
+  },
+  {
+    "team": "55Uganda",
+    "gold": "1",
+    "silver": "1",
+    "bronze": "0",
+    "total": "2"
+  },
+  {
+    "team": "59Dominican Republic",
+    "gold": "1",
+    "silver": "0",
+    "bronze": "2",
+    "total": "3"
+  },
+  {
+    "team": "60Guatemala",
+    "gold": "1",
+    "silver": "0",
+    "bronze": "1",
+    "total": "2"
+  },
+  {
+    "team": "60Morocco",
+    "gold": "1",
+    "silver": "0",
+    "bronze": "1",
+    "total": "2"
+  },
+  {
+    "team": "62Dominica",
+    "gold": "1",
+    "silver": "0",
+    "bronze": "0",
+    "total": "1"
+  },
+  {
+    "team": "62Pakistan",
+    "gold": "1",
+    "silver": "0",
+    "bronze": "0",
+    "total": "1"
+  },
+  {
+    "team": "64Türkiye",
+    "gold": "0",
+    "silver": "3",
+    "bronze": "5",
+    "total": "8"
+  },
+  {
+    "team": "65Mexico",
+    "gold": "0",
+    "silver": "3",
+    "bronze": "2",
+    "total": "5"
+  },
+  {
+    "team": "66Armenia",
+    "gold": "0",
+    "silver": "3",
+    "bronze": "1",
+    "total": "4"
+  },
+  {
+    "team": "66Colombia",
+    "gold": "0",
+    "silver": "3",
+    "bronze": "1",
+    "total": "4"
+  },
+  {
+    "team": "68Kyrgyzstan",
+    "gold": "0",
+    "silver": "2",
+    "bronze": "4",
+    "total": "6"
+  },
+  {
+    "team": "68North Korea",
+    "gold": "0",
+    "silver": "2",
+    "bronze": "4",
+    "total": "6"
+  },
+  {
+    "team": "70Lithuania",
+    "gold": "0",
+    "silver": "2",
+    "bronze": "2",
+    "total": "4"
+  },
+  {
+    "team": "71India",
+    "gold": "0",
+    "silver": "1",
+    "bronze": "5",
+    "total": "6"
+  },
+  {
+    "team": "72Republic of Moldova",
+    "gold": "0",
+    "silver": "1",
+    "bronze": "3",
+    "total": "4"
+  },
+  {
+    "team": "73Kosovo",
+    "gold": "0",
+    "silver": "1",
+    "bronze": "1",
+    "total": "2"
+  },
+  {
+    "team": "74Cyprus",
+    "gold": "0",
+    "silver": "1",
+    "bronze": "0",
+    "total": "1"
+  },
+  {
+    "team": "74Fiji",
+    "gold": "0",
+    "silver": "1",
+    "bronze": "0",
+    "total": "1"
+  },
+  {
+    "team": "74Jordan",
+    "gold": "0",
+    "silver": "1",
+    "bronze": "0",
+    "total": "1"
+  },
+  {
+    "team": "74Mongolia",
+    "gold": "0",
+    "silver": "1",
+    "bronze": "0",
+    "total": "1"
+  },
+  {
+    "team": "74Panama",
+    "gold": "0",
+    "silver": "1",
+    "bronze": "0",
+    "total": "1"
+  },
+  {
+    "team": "79Tajikistan",
+    "gold": "0",
+    "silver": "0",
+    "bronze": "3",
+    "total": "3"
+  },
+  {
+    "team": "80Albania",
+    "gold": "0",
+    "silver": "0",
+    "bronze": "2",
+    "total": "2"
+  },
+  {
+    "team": "80Grenada",
+    "gold": "0",
+    "silver": "0",
+    "bronze": "2",
+    "total": "2"
+  },
+  {
+    "team": "80Malaysia",
+    "gold": "0",
+    "silver": "0",
+    "bronze": "2",
+    "total": "2"
+  },
+  {
+    "team": "80Puerto Rico",
+    "gold": "0",
+    "silver": "0",
+    "bronze": "2",
+    "total": "2"
+  },
+  {
+    "team": "84Côte d'Ivoire",
+    "gold": "0",
+    "silver": "0",
+    "bronze": "1",
+    "total": "1"
+  },
+  {
+    "team": "84Cape Verde",
+    "gold": "0",
+    "silver": "0",
+    "bronze": "1",
+    "total": "1"
+  },
+  {
+    "team": "84Refugee Olympic Team",
+    "gold": "0",
+    "silver": "0",
+    "bronze": "1",
+    "total": "1"
+  },
+  {
+    "team": "84Peru",
+    "gold": "0",
+    "silver": "0",
+    "bronze": "1",
+    "total": "1"
+  },
+  {
+    "team": "84Qatar",
+    "gold": "0",
+    "silver": "0",
+    "bronze": "1",
+    "total": "1"
+  },
+  {
+    "team": "84Singapore",
+    "gold": "0",
+    "silver": "0",
+    "bronze": "1",
+    "total": "1"
+  },
+  {
+    "team": "84Slovakia",
+    "gold": "0",
+    "silver": "0",
+    "bronze": "1",
+    "total": "1"
+  },
+  {
+    "team": "84Zambia",
+    "gold": "0",
+    "silver": "0",
+    "bronze": "1",
+    "total": "1"
   }
 ]
