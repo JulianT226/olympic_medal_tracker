@@ -1,37 +1,37 @@
 [
   {
-    "team": "1China",
-    "gold": "32",
-    "silver": "25",
-    "bronze": "20",
-    "total": "77"
+    "team": "1United States",
+    "gold": "40",
+    "silver": "44",
+    "bronze": "41",
+    "total": "125"
   },
   {
-    "team": "2United States",
-    "gold": "30",
-    "silver": "38",
-    "bronze": "36",
-    "total": "104"
+    "team": "2China",
+    "gold": "40",
+    "silver": "27",
+    "bronze": "24",
+    "total": "91"
   },
   {
-    "team": "3Australia",
-    "gold": "18",
-    "silver": "15",
-    "bronze": "14",
-    "total": "47"
+    "team": "3Japan",
+    "gold": "20",
+    "silver": "12",
+    "bronze": "13",
+    "total": "45"
   },
   {
-    "team": "4France",
-    "gold": "14",
+    "team": "4Australia",
+    "gold": "17",
     "silver": "19",
-    "bronze": "22",
-    "total": "55"
+    "bronze": "16",
+    "total": "52"
   },
   {
-    "team": "5Great Britain",
-    "gold": "14",
-    "silver": "17",
-    "bronze": "21",
-    "total": "52"
+    "team": "5France",
+    "gold": "16",
+    "silver": "26",
+    "bronze": "22",
+    "total": "64"
   }
 ]
