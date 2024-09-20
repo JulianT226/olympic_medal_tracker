@@ -2,9 +2,9 @@
   {
     "team": "1United States",
     "gold": "40",
-    "silver": "43",
+    "silver": "44",
     "bronze": "42",
-    "total": "125"
+    "total": "126"
   },
   {
     "team": "2China",
@@ -31,7 +31,7 @@
     "team": "5France",
     "gold": "16",
     "silver": "26",
-    "bronze": "21",
-    "total": "63"
+    "bronze": "22",
+    "total": "64"
   }
 ]
