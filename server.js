@@ -23,7 +23,7 @@ async function scrapeMedalData() {
         });
         const page = await browser.newPage();
         console.log('Navigating to Google search page...');
-        await page.goto('https://www.google.com/search?q=Olympics+2024+medal+standings', { waitUntil: 'networkidle2', timeout: 60000 });
+        await page.goto('https://www.google.com/search?q=Olympics+medal+standings', { waitUntil: 'networkidle2', timeout: 60000 });
 
         console.log('Page loaded successfully. Extracting medal data...');
         const medalData = await page.evaluate(() => {
